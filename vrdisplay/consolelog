@@ -1,0 +1,2 @@
+unzip nvidia-l4t-kernel-4k-support.zip && \
+sudo apt install ./*.deb
